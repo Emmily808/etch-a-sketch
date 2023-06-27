@@ -1,4 +1,4 @@
-## Etch-a-sketch
+## Etch-a-sketch [view live](https://emmily808.github.io/etch-a-sketch)
 The Etch-a-sketch is a web-based application that allows users to create and customize grids for drawing or pixel art. It provides an interactive interface where users can adjust the grid size, choose colors, and paint the grid cells.
 
 ## Features
