@@ -1,5 +1,5 @@
-## Grid Drawing Tool
-The Grid Drawing Tool is a web-based application that allows users to create and customize grids for drawing or pixel art. It provides an interactive interface where users can adjust the grid size, choose colors, and paint the grid cells.
+## Etch-a-sketch
+The Etch-a-sketch is a web-based application that allows users to create and customize grids for drawing or pixel art. It provides an interactive interface where users can adjust the grid size, choose colors, and paint the grid cells.
 
 ## Features
 Grid Creation: Users can specify the desired size of the grid, and a grid of that size will be generated on the screen.
